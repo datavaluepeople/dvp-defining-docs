@@ -8,5 +8,16 @@ partners and members to expand and progress these in an effective way.
 This repo should replace the previous iteration of our defining docs from [Google Drive][link to
 old docs].
 
+## Contributing
+
+Contributions should aim to be concise first and foremost, then precise. Rely on GitHub's file
+explorer over maintaining links/contents. Flat file structure over nested.
+
+Partners and members can contribute equally. Partner contribution is expected, member contribution
+is heavily encouraged.
+
+Any partner can request a Special Majority requirement, as per legal governing documents, on any
+contribution PR, otherwise only a single/few approvals required.
+
 
 [link to old docs]: https://docs.google.com/document/d/1aI_ywv-VXqnCAddv9bWmHjt0_msr3S4MmCe5nvH1jlM/edit?usp=sharing
