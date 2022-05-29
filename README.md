@@ -23,7 +23,7 @@ Majority.
 
 ## Purpose of datavaluepeople
 
-The purpose of datavaluepeople is to enable its partners and members work lives to achieve the
+The purpose of datavaluepeople is to enable its partners and members' work lives to achieve the
 following:
 1. To work with people they are stoked (fired up) about working with
 2. To work on projects and stuff they are stoked (fired up) about working on
