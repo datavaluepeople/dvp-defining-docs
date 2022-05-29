@@ -19,6 +19,20 @@ is heavily encouraged.
 Any partner can request a Special Majority requirement, as per legal governing documents, on any
 contribution PR, otherwise only a single/few approvals required.
 
+## Who is datavaluepeople?
+
+We are a collection of people with common goals who collaborate to do applied machine learning,
+building automated systems, advising, and education, to create value for businesses, organizations,
+and humans.
+
+We are each one of:
+- Partner: have legal ownership, long term committed to the goals and values, decide on the
+  direction, projects, and development of dvp.
+- Member: have 100% opportunity and access within dvp but require 0% commitment and can alter
+  their involvement at will. They work on projects, can input to the direction, projects, and
+  development of dvp, while slowly strengthening their relationship with dvp with the hope they
+  will want to become a Partner.
+
 ## Purpose of datavaluepeople
 
 The purpose of datavaluepeople is to enable its partners and members' work lives to achieve the
