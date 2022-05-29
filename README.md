@@ -21,5 +21,21 @@ One approval is required, but the more the better, on any contribution PR. Any p
 request a change approval to follow the legal governing document(s), i.e. Majority/Special
 Majority.
 
+## Purpose of datavaluepeople
+
+The purpose of datavaluepeople is to enable its partners and members work lives to achieve the
+following:
+1. To work with people they are stoked (fired up) about working with
+2. To work on projects and stuff they are stoked (fired up) about working on
+3. Have high level of ownership over their work, time, and energy
+4. Be fun, enjoyable, and satisfying
+5. Be low-mid stress
+
+## Not purposes of datavaluepeople
+
+These are things which are explicitly not the purpose of datavaluepeople:
+- To generate money for partners/members
+- To grow for growth's sake
+
 
 [link to old docs]: https://docs.google.com/document/d/1aI_ywv-VXqnCAddv9bWmHjt0_msr3S4MmCe5nvH1jlM/edit?usp=sharing
