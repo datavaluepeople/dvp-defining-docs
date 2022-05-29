@@ -21,7 +21,7 @@ contribution PR, otherwise only a single/few approvals required.
 
 ## Purpose of datavaluepeople
 
-The purpose of datavaluepeople is to enable its partners and members work lives to achieve the
+The purpose of datavaluepeople is to enable its partners and members' work lives to achieve the
 following:
 - Have high level of ownership over their work, time, and energy
 - Be fun, enjoyable, and satisfying
