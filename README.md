@@ -1,4 +1,4 @@
-# datavaluepeople Structure
+# datavaluepeople Defining Docs
 
 Repo to record and document the datavaluepeople structure: protocol and methods on how the company functions.
 
