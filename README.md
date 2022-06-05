@@ -23,6 +23,9 @@ We are each one of:
 
 ## Purpose of datavaluepeople
 
+**The following purposes, not purposes, failure modes, and not failure modes, should inform all
+decision making.**
+
 The purpose of datavaluepeople is to enable its partners and members' work lives to achieve the
 following:
 1. To work with people they are stoked (fired up) about working with
@@ -36,6 +39,20 @@ following:
 These are things which are explicitly not the purpose of datavaluepeople:
 - To generate money for partners/members
 - To grow for growth's sake
+
+## Explicit recognition of perceived failure modes
+
+datavaluepeople is deemed a failure if it fails to achieve its purposes.
+
+### Perceived failure modes
+- Majority of partners fallout due to high stress project/commitments
+- Majority of partners fallout due to high emotionally charged disagreements
+
+### Not perceived failure modes
+- Running out of money/having no work
+    - Why: Individuals should go and get a contract/job as an individual
+- Being sued
+    - Why: We don't have any assets other than moderate cash in the bank
 
 ## Contributing to this repo
 
