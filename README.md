@@ -49,6 +49,16 @@ These are things which are explicitly not the purpose of datavaluepeople:
 - To generate money for partners/members
 - To grow for growth's sake
 
+## Explicit recognition of how we would fail
+
+datavaluepeople is deemed a failure if it fails to achieve the purposes above. This won't be
+because we have run out of money as we don't have any substantive overheads. This will most likely
+happen and be because we have fallen out with one another, which will most likely happen in a
+situation where we are under high-stress from external factors, which will most likely be due to
+taking on high-stress projects/commitments. This should always be kept in mind when deciding
+which projects to take on or clients to engage with.
+
+
 ## datavaluepeople principles and their trade-offs
 
 - Never hire under a hard time pressure:
