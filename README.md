@@ -26,7 +26,7 @@ These are things which are explicitly not the purpose of datavaluepeople:
 
 ## Contributing
 
-Contributions should aim to be concise first and foremost, then precise. Rely on GitHub's file
+**Contributions should aim to be concise first and foremost, then precise.** Rely on GitHub's file
 explorer over maintaining links/contents page. Flat file structure over nested. Don't duplicate
 information that already exists elsewhere.
 
