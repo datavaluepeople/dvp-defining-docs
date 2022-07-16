@@ -1,6 +1,6 @@
 # datavaluepeople Defining Docs
 
-## The purpose of this repo?
+## Purpose of this repo
 
 To be the single source of information that defines how datavaluepeople operates, and enable the
 partners and members to expand and progress these in an effective way.
@@ -11,7 +11,7 @@ old docs].
 ## Contributing
 
 Contributions should aim to be concise first and foremost, then precise. Rely on GitHub's file
-explorer over maintaining links/a contents. Flat file structure over nested. Don't duplicate
+explorer over maintaining links/contents page. Flat file structure over nested. Don't duplicate
 information that already exists elsewhere.
 
 Partners and members can contribute equally. Partner contribution is expected, member contribution
