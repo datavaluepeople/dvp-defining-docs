@@ -4,12 +4,11 @@
     - Why: Because who is in dvp is _the_ most important and defining thing so decisions on who to
       work with should never affected by external influence.
     - Downside: We have to turn down work if we don't have capacity.
-- Always choose the most tentative low-commitment initial engagement possible:
-    - Why: Engagements with clients/members/people we don't know have a lot of unknowns and thus
-      high risk. Making a tentative/low-risk initial engagement is the best way to test if the
-      engagement works.
-    - Downside: We are slower entering and building engagements. Sales is harder if we're
-      less/non-commital.
+- Prolific in our engagements but careful in our commitments:
+    - Why: The combination of the two will help us quickly, and in a low-risk way, find work and
+      people we're stoked about.
+    - Downside: We are slower to grow. We spend time and energy on "stuff" that isn't necessarily
+      turn into a commitment
 - Partners are equal:
     - Why: We believe ownership is integral to motivation, so we want all partners to have equal
       ownership.
