@@ -24,7 +24,7 @@ These are things which are explicitly not the purpose of datavaluepeople:
 - To generate money for partners/members
 - To grow for growth's sake
 
-## Contributing
+## Contributing to this repo
 
 **Contributions should aim to be concise first and foremost, then precise.** Rely on GitHub's file
 explorer over maintaining links/contents page. Flat file structure over nested. Don't duplicate
