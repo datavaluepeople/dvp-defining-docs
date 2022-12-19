@@ -8,7 +8,7 @@ partners and members to expand and progress these in an effective way.
 This repo should replace the previous iteration of our defining docs from [Google Drive][link to
 old docs].
 
-## Who is datavaluepeople
+## Who are datavaluepeople
 
 We are a collection of people who collaborate to do applied machine learning, building automated
 systems, advising, and educating, to create value for businesses, organizations, and humans.
@@ -16,10 +16,11 @@ systems, advising, and educating, to create value for businesses, organizations,
 We are each one of:
 - Partner: have legal ownership, long term committed to the goals and values, decide on the
   direction, projects, and development of dvp.
-- Member: have 100% opportunity and access within dvp but require 0% commitment and can alter their
-  involvement at will. They work on projects, can input to the direction, projects, and development
-  of dvp, while slowly strengthening their relationship with dvp, with the hope of the partners
-  that they eventually will want to become a partner.
+- Member: have 100% opportunity and access within dvp but require no upfront or continued
+  commitment. When they choose to make commitments they honour them. They can work on projects,
+  input to the direction and development of dvp, while slowly strengthening their
+  relationship with dvp, with the hope of the partners that they eventually will want to become a
+  partner.
 
 ## Purpose of datavaluepeople
 
