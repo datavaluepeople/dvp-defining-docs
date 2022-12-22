@@ -19,3 +19,9 @@
       constrained. We want to demonstrate we are a collaborative group not an extractive one. We
       want commitments to be entered into freely and thus with greater intrinsic motivation.
     - Downside: Members can't be upfront assumed as capacity for projects.
+- Structure engagements with/within dvp to incentivise (but not force) further investment and
+  engagement:
+    - Why: We don't want to create lock-ins, but we do want to foster deeper cooperation with
+      partners/members/clients/partnerships. A main structural decision to achieve this are Project
+      Pots.
+    - Downside: Slower to form more reliable and strong collaborators.
