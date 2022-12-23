@@ -25,3 +25,6 @@
       partners/members/clients/partnerships. A main structural decision to achieve this are Project
       Pots.
     - Downside: Slower to form more reliable and strong collaborators.
+- Fully remote by default:
+    - Why: We want to work with anyone regardless of location or borders.
+    - Trade-off: Takes more effort to hang out, especially in person.
