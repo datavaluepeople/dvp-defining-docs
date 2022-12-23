@@ -42,3 +42,7 @@
     - Why: We don't know what will work or be of value, so we try lean experiments to learn
       quickly.
     - Downside: We may need to upgrade or even redo things we have previously built.
+- When doing development, we put reviewers before writers:
+    - Why: Builds a dev culture that is a joy to work in, pushes each other to excel, ensures
+      higher code quality and maintainability.
+    - Downside: Writing code takes longer.
