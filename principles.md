@@ -32,3 +32,9 @@
     - Why: Collaboration and mutual wins feel better, and we think give better returns for us in
       the long run.
     - Downside: We might earn lower immediate returns than we otherwise could.
+- We leave a wake which is a joy for others to take up:
+    - Why: We want things we do to have lasting value, for that to happen things we do need to be
+      able to be taken up by others (including our future selves), thus we leave our work in a
+      comprehensible and accessible state.
+    - Downside: It takes longer to build and create things, because we need to do extra work to
+      make it readily continuable by someone else.
