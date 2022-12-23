@@ -38,3 +38,7 @@
       comprehensible and accessible state.
     - Downside: It takes longer to build and create things, because we need to do extra work to
       make it readily continuable by someone else.
+- We work in a lean minimal way:
+    - Why: We don't know what will work or be of value, so we try lean experiments to learn
+      quickly.
+    - Downside: We may need to upgrade or even redo things we have previously built.
