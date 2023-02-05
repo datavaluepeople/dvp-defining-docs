@@ -47,7 +47,7 @@ Partners and members can contribute equally. Partner contribution is expected, m
 is heavily encouraged.
 
 One approval is required, but the more the better, on any contribution PR. Any partner/member can
-request a change approval to follow the legal governing document(s), i.e. Majority/Special
-Majority.
+request a change approval to follow the decision making processes specified in the legal governing
+document(s), i.e. Majority/Special Majority.
 
 [link to old docs]: https://docs.google.com/document/d/1aI_ywv-VXqnCAddv9bWmHjt0_msr3S4MmCe5nvH1jlM/edit?usp=sharing
