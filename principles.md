@@ -9,3 +9,8 @@
       ownership.
     - Downside: Slower to make decisions. Possible deadlocks. Requires more energy in communication
       and maintaining of relationships.
+- Prolific in making connections but cautious in making commitments:
+    - Why: The combination of the two will help us quickly, and in a low-risk way, find people and
+      projects we're stoked about.
+    - Downside: We are slower to grow. We spend time and energy on relationships and ideas that
+      don't necessarily turn into concrete outcomes.
