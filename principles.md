@@ -28,3 +28,7 @@
 - Fully remote by default:
     - Why: We want to work with anyone regardless of location or borders.
     - Trade-off: Takes more effort to hang out, especially in person.
+- We choose pragmatic win-wins over squeezing engagements for all we can get:
+    - Why: Collaboration and mutual wins feel better, and we think give better returns for us in
+      the long run.
+    - Downside: We might earn lower immediate returns than we otherwise could.
