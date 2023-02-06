@@ -14,3 +14,8 @@
       projects we're stoked about.
     - Downside: We are slower to grow. We spend time and energy on relationships and ideas that
       don't necessarily turn into concrete outcomes.
+- Members have 100% opportunity but require 0% upfront commitment:
+    - Why: The people we want to be in dvp know their own worth - they don't like to be
+      constrained. We want to demonstrate we are a collaborative group not an extractive one. We
+      want commitments to be entered into freely and thus with greater intrinsic motivation.
+    - Downside: Members can't be upfront assumed as capacity for projects.
