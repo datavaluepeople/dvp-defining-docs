@@ -9,7 +9,9 @@ The following is a rough specification, which may contain incorrect/out of date 
 included to give new/potential members an easily gained rough overview of how they can expect
 financials work.
 
-- You get paid based on the time you work - we are accurate with our recorded worked time
+- You get paid based on the time you work
+  - We are accurate with our recorded worked time
+  - A major part of the value we deliver is solving hard problems, so we bill for thinking time
 - Each project has a specified hourly rate
 - Everyone is paid the same project rate
 - Partners and members are responsible for (saving for) their own tax liabilities
