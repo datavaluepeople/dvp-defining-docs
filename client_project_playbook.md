@@ -4,6 +4,11 @@ The following is advice for successfully delivering client projects. It should n
 finding such projects, nor anything sales related.
 
 ## Before the project begins - client and project due diligence
+
+Entering into contracts involves some risk. Entering into commitments that turn out to be far from
+what we want or expected could cause us to fail (end operating, have a terrible time). We want to
+minimise that risk while maintaining our ability to secure valuable projects.
+
 - Can you include "trail periods" in the contract? I.e. for first 2 weeks can stop with 1 day
   notice.
 - Have you met all/any of the people you will be working closely with? I.e. other developers.
