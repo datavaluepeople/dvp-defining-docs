@@ -52,7 +52,7 @@ datavaluepeople is deemed a failure if it fails to achieve its purposes.
 ### Not perceived failure modes
 - Running out of money/having no work
     - Why: Individuals should go and get a contract/job as an individual
-- Being sued
+- Extraordinary ruinous event
     - Why: We don't have any assets other than moderate cash in the bank
 
 ## Contributing to this repo
