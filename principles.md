@@ -46,3 +46,6 @@
     - Why: Builds a dev culture that is a joy to work in, pushes each other to excel, ensures
       higher code quality and maintainability.
     - Downside: Writing code takes longer.
+- We keep our running overheads very low:
+    - Why: This is a requirement for running out of money to not be a failure mode.
+    - Downside: Limits our usage of any paid services.
