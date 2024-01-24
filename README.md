@@ -45,6 +45,12 @@ datavaluepeople is deemed a failure if it fails to achieve its purposes.
 - Extraordinary ruinous event
     - Why: We don't have any assets other than moderate cash in the bank
 
+## Longer term vision
+
+That datavaluepeople is composed of 10-20 individuals who are entrepreneurial in their own right,
+each having a diverse network beyond datavaluepeople. They will collaborate on client projects,
+for-profit and non-profit ventures, creating a dynamic and productive work environment.
+
 ## Contributing to this repo
 
 **Contributions should aim to be concise first and foremost, then precise.** Rely on GitHub's file
