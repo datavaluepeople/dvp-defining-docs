@@ -8,3 +8,7 @@ We are each one of:
   provide input to the direction and development of dvp, while slowly strengthening their
   relationship with dvp, with the hope of the partners that they eventually will want to become a
   partner.
+
+There is a further category of _non-member_ or _freelancer_.
+This category applies to someone who works with dvp on a project-by-project basis,
+but has not become a member.
