@@ -25,21 +25,21 @@ following:
 4. Be fun, enjoyable, and satisfying
 5. Be low-mid stress
 
-## Not purposes of datavaluepeople
+### Not purposes of datavaluepeople
 
 These are things which are explicitly not the purpose of datavaluepeople:
 - To generate money for partners/members
 - To grow for growth's sake
 
-## Explicit recognition of perceived failure modes
+### Explicit recognition of perceived failure modes
 
 datavaluepeople is deemed a failure if it fails to achieve its purposes.
 
-### Perceived failure modes
+#### Perceived failure modes
 - Majority of partners fallout due to high stress project/commitments
 - Majority of partners fallout due to high emotionally charged disagreements
 
-### Not perceived failure modes
+#### Not perceived failure modes
 - Running out of money/having no work
     - Why: Individuals should go and get a contract/job as an individual
 - Extraordinary ruinous event
