@@ -5,6 +5,11 @@
 
 This page focuses on the latter with it being assumed that members switch into _sales mode_ when needed.
 
+## Where to start
+
+For more resources and playbooks to get started, see the 
+[sales and marketing drive folder](https://drive.google.com/drive/u/0/folders/1cBEqjpyo35h50yy-uhFuzM7gY6LLSCaP).
+
 ## Mindset
 
 Both the arrival of prospects and their conversion are highly stochastic processes,
@@ -19,8 +24,11 @@ Checking in on a regular basis with existing contacts is as important as making 
 
 ## Online presence
 
-Our website is the central portal for our brand.
-There should be uptodate content covering the following areas.
+Durable high-quality content online is key to our marketing.
+- Our website, https://datavaluepeople.com: the central portal for our brand. 
+- Online profiles and content directly related to members, e.g. LinkedIn, StackOverflow...
+
+There should be uptodate content on our website covering the following areas.
 - Who we are and how we work
 - Project examples and testimonials
 - Case studies to highlight what we can offer
