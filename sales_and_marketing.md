@@ -1,11 +1,9 @@
-# Marketing (and sales)
+# Sales and marketing
 
-## Sales and marketing
+- **Sales**: closing deals and generating revenue through direct interaction with customers.
+- **Marketing**: a broader approach, creating awareness, building relationships, and driving long-term sales growth.
 
-This page concerns sales in the sense of bringing in new projects,
-but is technically more concerned with marketing to attract clients organically.
-When members find themselves needing work, it is natural for them to shift into _sales mode_.
-However, here we talk about ongoing activity to avoid such situations.
+This page focuses on the latter with it being assumed that members switch into _sales mode_ when needed.
 
 ## Mindset
 
