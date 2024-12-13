@@ -8,11 +8,6 @@
 This page focuses on the latter with it being assumed that members switch into _sales 
 mode_ when needed.
 
-## Where to start
-
-For more resources and playbooks to get started, see the [sales and marketing drive 
-folder](https://drive.google.com/drive/u/0/folders/1cBEqjpyo35h50yy-uhFuzM7gY6LLSCaP).
-
 ## Mindset
 
 Both the arrival of prospects and their conversion are highly stochastic processes, 
@@ -40,3 +35,8 @@ There should be uptodate content on our website covering the following areas.
 
 Smaller content can be posted on other channels, such as LinkedIn, ideally with a link 
 back to longer content on the website.
+
+## Further resources
+
+For more resources and playbooks to get started, see the [sales and marketing drive 
+folder](https://drive.google.com/drive/u/0/folders/1cBEqjpyo35h50yy-uhFuzM7gY6LLSCaP).
