@@ -1,26 +1,30 @@
 # Sales and marketing
 
-- **Sales**: closing deals and generating revenue through direct interaction with customers.
-- **Marketing**: a broader approach, creating awareness, building relationships, and driving long-term sales growth.
+- **Sales**: closing deals and generating revenue through direct interaction with 
+  customers.
+- **Marketing**: a broader approach, creating awareness, building relationships, and 
+  driving long-term sales growth.
 
-This page focuses on the latter with it being assumed that members switch into _sales mode_ when needed.
+This page focuses on the latter with it being assumed that members switch into _sales 
+mode_ when needed.
 
 ## Where to start
 
-For more resources and playbooks to get started, see the 
-[sales and marketing drive folder](https://drive.google.com/drive/u/0/folders/1cBEqjpyo35h50yy-uhFuzM7gY6LLSCaP).
+For more resources and playbooks to get started, see the [sales and marketing drive 
+folder](https://drive.google.com/drive/u/0/folders/1cBEqjpyo35h50yy-uhFuzM7gY6LLSCaP).
 
 ## Mindset
 
-Both the arrival of prospects and their conversion are highly stochastic processes,
-and more driven by factors outside our control than project work.
-We invest our energy in increasing the likelihood of being found/finding opportunities beyond the period of action.
+Both the arrival of prospects and their conversion are highly stochastic processes, 
+and more driven by factors outside our control than project work. We invest our energy 
+in increasing the likelihood of being found/finding opportunities beyond the period of 
+action.
 
 ## Network
 
-Connections are formed at the personal level 
-and individual members should actively maintain and expand their own networks.
-Checking in on a regular basis with existing contacts is as important as making new ones.
+Connections are formed at the personal level and individual members should actively 
+maintain and expand their own networks. Checking in on a regular basis with existing  
+contacts is as important as making new ones.
 
 ## Online presence
 
@@ -34,5 +38,5 @@ There should be uptodate content on our website covering the following areas.
 - Case studies to highlight what we can offer
 - Blog posts to demonstrate technical understanding, amongst other things
 
-Smaller content can be posted on other channels, such as LinkedIn, 
-ideally with a link back to longer content on the website.
+Smaller content can be posted on other channels, such as LinkedIn, ideally with a link 
+back to longer content on the website.
