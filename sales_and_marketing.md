@@ -11,9 +11,10 @@ mode_ when needed.
 ## Mindset
 
 Both the arrival of prospects and their conversion are highly stochastic processes, 
-and more driven by factors outside our control than project work. We invest our energy 
-in increasing the likelihood of being found/finding opportunities beyond the period of 
-action.
+and more driven by factors outside our control than project work. We prioritise 
+efforts that continue to increase the likelihood of being found / finding opportunities 
+and bring us value over time, rather than efforts that only produce results in the 
+moment — for example, writing blog posts is better than cold emailing.
 
 ## Network
 
