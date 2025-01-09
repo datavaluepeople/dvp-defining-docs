@@ -18,7 +18,7 @@ action.
 ## Network
 
 Connections are formed at the personal level and individual members should actively 
-maintain and expand their own networks. Checking in on a regular basis with existing  
+maintain and expand their own networks. Checking in on a regular basis with existing 
 contacts is as important as making new ones.
 
 ## Online presence
