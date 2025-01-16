@@ -9,10 +9,11 @@ We are each one of:
   while slowly strengthening their relationship with dvp, with the hope of the 
   partners that they eventually will want to become a partner.
 
-There is a further category of _non-member_ or _freelancer_. This category applies to 
-someone who works with dvp on a project-by-project basis, but has not become a member.
+There is a further category of _non-member_ or similarly _freelancer_. This category 
+applies to someone who works with dvp on a project-by-project basis, but has not 
+become a member.
 
-An example _journey_ for a newcomer could be performing a well-defined task for dvp,
+An example journey for a newcomer could be performing a well-defined task for dvp, 
 before then engaging with dvp on a longer project. They are subsequently invited to 
-become a member, and if the relationship continues to grow may eventually become a 
+become a member, and if the relationship continues to grow they may eventually become a 
 partner.
